@@ -18,4 +18,3 @@ It is an essential and practical project aimed at teaching interns how to automa
 
 ![Image](https://github.com/user-attachments/assets/5fd96d89-d6c8-4557-9a85-92bc72f3eb6a)
 
-![Image](https://github.com/user-attachments/assets/befb3b54-3d18-4b8b-8af5-d11576e82878)
