@@ -13,3 +13,9 @@
 *MENTOR*:NEELA SANTOSH
 
 It is an essential and practical project aimed at teaching interns how to automate one of the most common tasks in data analysis—report generation. It brings together data handling, processing, and document creation in a cohesive project. Interns learn how to read, analyze, and present data in a formal PDF format, which is a valuable skill in industries like business analytics, finance, education, and IT. By the end of this task, interns not only improve their Python skills but also gain confidence in automating workflows and delivering polished, professional outputs.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5fd96d89-d6c8-4557-9a85-92bc72f3eb6a)
+
+![Image](https://github.com/user-attachments/assets/befb3b54-3d18-4b8b-8af5-d11576e82878)
